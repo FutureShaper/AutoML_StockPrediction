@@ -2,6 +2,8 @@
 
 see [LinkedIn Post](https://www.linkedin.com/posts/simon-hoppermann_machinelearning-automl-ml-activity-7116029202629304320-0eUO)
 
+[Notebook](automl-stockprediction.ipynb)
+
 Additional note:
 
 While H2O’s AutoML does automate many aspects of the machine learning process, it does expect that the data you provide is already cleaned and preprocessed. This includes handling missing values, which some algorithms are not equipped to deal with.
